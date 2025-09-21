@@ -2,10 +2,10 @@
 
 /* Styles personnalisés pour le dashboard */
 .dashboard-card {
-    width: 280px !important; /* Largeur fixe pour toutes les cartes */
+    width: 240px !important; /* Largeur fixe pour toutes les cartes */
     height: 140px !important; /* Hauteur fixe pour toutes les cartes */
     flex-shrink: 0 !important; /* Empêche la réduction des cartes */
-    min-width: 280px !important; /* Largeur minimale garantie */
+    min-width: 240px !important; /* Largeur minimale garantie */
     display: flex !important; /* Flexbox pour la structure interne */
     flex-direction: column !important; /* Direction verticale */
 }
@@ -23,7 +23,7 @@
 .orange-header h3 {
     color: white !important;
     font-weight: bold !important;
-    font-size: 0.875rem !important; /* Augmentation de la taille de police */
+    font-size: 0.8rem !important; /* Ajustement de la taille de police */
     text-transform: uppercase !important;
     margin: 0 !important;
     line-height: 1.2 !important; /* Réduction de l'espacement des lignes */
@@ -43,12 +43,12 @@
 .blue-body .text-white {
     color: white !important;
     font-weight: bold !important;
-    font-size: 1rem !important; /* Augmentation de la taille de police */
+    font-size: 0.9rem !important; /* Ajustement de la taille de police */
     line-height: 1.3 !important;
 }
 
 .blue-body .text-sm {
-    font-size: 0.8rem !important; /* 12.8px - Augmentation de la taille de police */
+    font-size: 0.75rem !important; /* 12px - Ajustement de la taille de police */
     line-height: 1.2 !important;
 }
 
