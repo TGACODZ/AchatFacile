@@ -167,33 +167,7 @@
                         </div>
                     </div>
 
-                    <!-- Total vente cash -->
-                    <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg dashboard-card">
-                        <!-- En-tête orange -->
-                        <div class="orange-header">
-                            <h3>TOTAL VENTE CASH</h3>
-                        </div>
-                        <!-- Corps bleu foncé -->
-                        <div class="blue-body">
-                            <div class="text-white font-bold text-lg">2 VENTES</div>
-                            <div class="border-t border-gray-600 my-2"></div>
-                            <div class="text-white font-bold text-sm">MONTANT : 245.000 FCFA</div>
-                        </div>
-                    </div>
 
-                    <!-- Total vente crédit -->
-                    <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg dashboard-card">
-                        <!-- En-tête orange -->
-                        <div class="orange-header">
-                            <h3>TOTAL VENTE CRÉDIT</h3>
-                        </div>
-                        <!-- Corps bleu foncé -->
-                        <div class="blue-body">
-                            <div class="text-white font-bold text-lg">82 VENTES</div>
-                            <div class="border-t border-gray-600 my-2"></div>
-                            <div class="text-white font-bold text-sm">MONTANT : 13.718.000 FCFA</div>
-                        </div>
-                    </div>
                 </div>
             </section>
 
