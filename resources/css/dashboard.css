@@ -3,14 +3,21 @@
 /* Styles personnalisés pour le dashboard */
 .dashboard-card {
     width: 180px !important; /* Largeur fixe pour toutes les cartes */
+    height: 140px !important; /* Hauteur fixe pour toutes les cartes */
     flex-shrink: 0 !important; /* Empêche la réduction des cartes */
     min-width: 180px !important; /* Largeur minimale garantie */
+    display: flex !important; /* Flexbox pour la structure interne */
+    flex-direction: column !important; /* Direction verticale */
 }
 
 .orange-header {
     background-color: #f97316 !important; /* orange-500 */
     border-radius: 0.375rem 0.375rem 0 0; /* Réduction du border-radius */
     padding: 0.5rem 0.75rem !important; /* Réduction du padding */
+    flex-shrink: 0 !important; /* Empêche la réduction de l'en-tête */
+    height: 35px !important; /* Hauteur fixe pour l'en-tête */
+    display: flex !important;
+    align-items: center !important; /* Centrage vertical du texte */
 }
 
 .orange-header h3 {
@@ -27,6 +34,10 @@
     padding: 0.75rem !important; /* Réduction du padding */
     color: white !important;
     border-radius: 0 0 0.375rem 0.375rem; /* Ajout du border-radius en bas */
+    flex: 1 !important; /* Occupe l'espace restant */
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important; /* Centrage vertical du contenu */
 }
 
 .blue-body .text-white {
