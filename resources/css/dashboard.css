@@ -2,9 +2,9 @@
 
 /* Styles personnalisés pour le dashboard */
 .dashboard-card {
-    width: 75% !important; /* Réduction de 3/4 */
-    max-width: 200px !important; /* Largeur maximale pour éviter que les cartes soient trop larges */
-    min-width: 150px !important; /* Largeur minimale pour maintenir la lisibilité */
+    width: 180px !important; /* Largeur fixe pour toutes les cartes */
+    flex-shrink: 0 !important; /* Empêche la réduction des cartes */
+    min-width: 180px !important; /* Largeur minimale garantie */
 }
 
 .orange-header {
