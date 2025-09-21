@@ -98,7 +98,7 @@
                 <!-- Statistiques de vente style image -->
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-7 gap-4 mb-8">
                     <!-- Total des ventes -->
-                    <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg">
+                    <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg dashboard-card">
                         <!-- En-tête orange -->
                         <div class="orange-header">
                             <h3>TOTAL DES VENTES</h3>
@@ -112,7 +112,7 @@
                     </div>
 
                     <!-- Ventes Cash -->
-                    <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg">
+                    <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg dashboard-card">
                         <!-- En-tête orange -->
                         <div class="orange-header">
                             <h3>VENTES CASH</h3>
@@ -126,7 +126,7 @@
                     </div>
 
                     <!-- Ventes à crédit -->
-                    <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg">
+                    <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg dashboard-card">
                         <!-- En-tête orange -->
                         <div class="orange-header">
                             <h3>VENTES À CRÉDIT</h3>
@@ -140,7 +140,7 @@
                     </div>
 
                     <!-- Stock -->
-                    <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg">
+                    <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg dashboard-card">
                         <!-- En-tête orange -->
                         <div class="orange-header">
                             <h3>STOCK</h3>
@@ -154,7 +154,7 @@
                     </div>
 
                     <!-- Nombre de clients -->
-                    <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg">
+                    <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg dashboard-card">
                         <!-- En-tête orange -->
                         <div class="orange-header">
                             <h3>NOMBRE DE CLIENTS</h3>
@@ -168,7 +168,7 @@
                     </div>
 
                     <!-- Total vente cash -->
-                    <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg">
+                    <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg dashboard-card">
                         <!-- En-tête orange -->
                         <div class="orange-header">
                             <h3>TOTAL VENTE CASH</h3>
@@ -182,7 +182,7 @@
                     </div>
 
                     <!-- Total vente crédit -->
-                    <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg">
+                    <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg dashboard-card">
                         <!-- En-tête orange -->
                         <div class="orange-header">
                             <h3>TOTAL VENTE CRÉDIT</h3>
