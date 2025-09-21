@@ -1,4 +1,36 @@
 /*! tailwindcss v4.0.7 | MIT License | https://tailwindcss.com */
+
+/* Styles personnalisés pour le dashboard */
+.orange-header {
+    background-color: #f97316 !important; /* orange-500 */
+    border-radius: 0.5rem 0.5rem 0 0;
+    padding: 0.75rem 1rem;
+}
+
+.orange-header h3 {
+    color: white !important;
+    font-weight: bold !important;
+    font-size: 0.875rem !important;
+    text-transform: uppercase !important;
+    margin: 0 !important;
+}
+
+.blue-body {
+    background-color: #1e3a8a !important; /* blue-900 */
+    padding: 1rem;
+    color: white !important;
+}
+
+.blue-body .text-white {
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.blue-body .border-gray-600 {
+    border-color: #4b5563 !important;
+    border-top-width: 1px !important;
+    margin: 0.5rem 0 !important;
+}
 @layer theme {
 
     :root,

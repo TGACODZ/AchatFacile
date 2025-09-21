@@ -100,11 +100,11 @@
                     <!-- Total des ventes -->
                     <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg">
                         <!-- En-tête orange -->
-                        <div class="bg-orange-500 rounded-t-lg px-4 py-3">
-                            <h3 class="text-white font-bold text-sm uppercase">TOTAL DES VENTES</h3>
+                        <div class="orange-header">
+                            <h3>TOTAL DES VENTES</h3>
                         </div>
                         <!-- Corps bleu foncé -->
-                        <div class="bg-blue-900 px-4 py-4">
+                        <div class="blue-body">
                             <div class="text-white font-bold text-lg">84 VENDU(S)</div>
                             <div class="border-t border-gray-600 my-2"></div>
                             <div class="text-white font-bold text-sm">CHIFFRE D'AFFAIRES : 13.963.000 FCFA</div>
@@ -114,11 +114,11 @@
                     <!-- Ventes Cash -->
                     <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg">
                         <!-- En-tête orange -->
-                        <div class="bg-orange-500 rounded-t-lg px-4 py-3">
-                            <h3 class="text-white font-bold text-sm uppercase">VENTES CASH</h3>
+                        <div class="orange-header">
+                            <h3>VENTES CASH</h3>
                         </div>
                         <!-- Corps bleu foncé -->
-                        <div class="bg-blue-900 px-4 py-4">
+                        <div class="blue-body">
                             <div class="text-white font-bold text-lg">2 VENDU(S)</div>
                             <div class="border-t border-gray-600 my-2"></div>
                             <div class="text-white font-bold text-sm">CHIFFRE D'AFFAIRES : 245.000 FCFA</div>
@@ -128,11 +128,11 @@
                     <!-- Ventes à crédit -->
                     <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg">
                         <!-- En-tête orange -->
-                        <div class="bg-orange-500 rounded-t-lg px-4 py-3">
-                            <h3 class="text-white font-bold text-sm uppercase">VENTES À CRÉDIT</h3>
+                        <div class="orange-header">
+                            <h3>VENTES À CRÉDIT</h3>
                         </div>
                         <!-- Corps bleu foncé -->
-                        <div class="bg-blue-900 px-4 py-4">
+                        <div class="blue-body">
                             <div class="text-white font-bold text-lg">82 VENDU(S)</div>
                             <div class="border-t border-gray-600 my-2"></div>
                             <div class="text-white font-bold text-sm">CHIFFRE D'AFFAIRES : 13.718.000 FCFA</div>
@@ -142,11 +142,11 @@
                     <!-- Stock -->
                     <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg">
                         <!-- En-tête orange -->
-                        <div class="bg-orange-500 rounded-t-lg px-4 py-3">
-                            <h3 class="text-white font-bold text-sm uppercase">STOCK</h3>
+                        <div class="orange-header">
+                            <h3>STOCK</h3>
                         </div>
                         <!-- Corps bleu foncé -->
-                        <div class="bg-blue-900 px-4 py-4">
+                        <div class="blue-body">
                             <div class="text-white font-bold text-lg">102 ARTICLE(S)</div>
                             <div class="border-t border-gray-600 my-2"></div>
                             <div class="text-white font-bold text-sm">ARTICLES DISPONIBLES</div>
@@ -160,11 +160,11 @@
                     <!-- Nombre de clients -->
                     <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg">
                         <!-- En-tête orange -->
-                        <div class="bg-orange-500 rounded-t-lg px-4 py-3">
-                            <h3 class="text-white font-bold text-sm uppercase">NOMBRE DE CLIENTS</h3>
+                        <div class="orange-header">
+                            <h3>NOMBRE DE CLIENTS</h3>
                         </div>
                         <!-- Corps bleu foncé -->
-                        <div class="bg-blue-900 px-4 py-4">
+                        <div class="blue-body">
                             <div class="text-white font-bold text-lg">342 CLIENTS</div>
                             <div class="border-t border-gray-600 my-2"></div>
                             <div class="text-white font-bold text-sm">CLIENTS ACTIFS</div>
@@ -174,11 +174,11 @@
                     <!-- Total vente cash -->
                     <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg">
                         <!-- En-tête orange -->
-                        <div class="bg-orange-500 rounded-t-lg px-4 py-3">
-                            <h3 class="text-white font-bold text-sm uppercase">TOTAL VENTE CASH</h3>
+                        <div class="orange-header">
+                            <h3>TOTAL VENTE CASH</h3>
                         </div>
                         <!-- Corps bleu foncé -->
-                        <div class="bg-blue-900 px-4 py-4">
+                        <div class="blue-body">
                             <div class="text-white font-bold text-lg">2 VENTES</div>
                             <div class="border-t border-gray-600 my-2"></div>
                             <div class="text-white font-bold text-sm">MONTANT : 245.000 FCFA</div>
@@ -188,11 +188,11 @@
                     <!-- Total vente crédit -->
                     <div class="bg-white dark:bg-[#161615] rounded-lg overflow-hidden shadow-lg">
                         <!-- En-tête orange -->
-                        <div class="bg-orange-500 rounded-t-lg px-4 py-3">
-                            <h3 class="text-white font-bold text-sm uppercase">TOTAL VENTE CRÉDIT</h3>
+                        <div class="orange-header">
+                            <h3>TOTAL VENTE CRÉDIT</h3>
                         </div>
                         <!-- Corps bleu foncé -->
-                        <div class="bg-blue-900 px-4 py-4">
+                        <div class="blue-body">
                             <div class="text-white font-bold text-lg">82 VENTES</div>
                             <div class="border-t border-gray-600 my-2"></div>
                             <div class="text-white font-bold text-sm">MONTANT : 13.718.000 FCFA</div>
